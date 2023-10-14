@@ -1,3 +1,42 @@
 body{
     background-color: rgb(154, 238, 201);
+    margin:0;
+    padding: 0;
+    
+}
+
+
+.cero{
+    color: black;
+    background-color: white;
+}
+
+.uno{
+    background-color: rgb(151, 151, 247);
+    height: 25rem;
+    overflow: hidden;
+    margin-left: 20rem;
+    
+    
+}
+
+
+.dos{
+    display: flex;
+}
+
+.primero{
+    background-color: rgb(178, 114, 238);
+    width: 50%;
+    height: 45rem;
+    
+}
+
+.imagenSinFondo{
+    margin-left: 5rem;
+    margin-top: 10rem;
+}
+
+.segundo{
+    background-color: rgb(230, 122, 122);
 }
